@@ -2,4 +2,7 @@
 *.psd
 *.pdf
 *.jpg
+*.png
+*.mp4
 /wwwroot
+wwwroot
